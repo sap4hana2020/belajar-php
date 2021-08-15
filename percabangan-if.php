@@ -1,5 +1,5 @@
 <?php 
-//percabangan IF
+//percabangan 1: IF
 
   $a = 10;
   $b = 20;
