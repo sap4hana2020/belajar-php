@@ -1,4 +1,5 @@
 <?php
+//Percabangan 2: IF, ElseIf, Else
 
 $nilai = 90;
 
