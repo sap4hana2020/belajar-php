@@ -4,10 +4,7 @@
 <body>
 <?php
 
-for($i = 0 ;  $i <= 5 ; $i++ ) {
-	echo "tes <br>";
-	}
-?>
+for($i =0, )
 
 </body>
 </html>
